@@ -1,4 +1,0 @@
-- rapihin code
-- rapihin rangkaian
-- tambahin fitur rangkaian (kalau mau, misal LED)
-- BELI BAHAN-BAHAN
