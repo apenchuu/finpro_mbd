@@ -1,7 +1,7 @@
 # PROYEK AKHIR MBD - KELOMPOK 1 || Sistem Scoreboard Digital Multi-Cabang Olahraga
 
 - Steven (2406421831)
-- Aridho Sectio Caesar
+- Aridho Sectio Caesar (2406421831)
 - Aidan Ardhazizi (2406430483)
 - Otniel Kristian Sianturi
 
